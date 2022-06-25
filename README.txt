@@ -1,4 +1,4 @@
-This is a mini project developed usaing Python  OpenCV and famous algorithms like HaarCascade.
+This is a mini project developed using Python  OpenCV and famous algorithms like HaarCascade.
 
 To run this project install the required packages.
 
